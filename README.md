@@ -10,10 +10,11 @@ Example of rest assured API test usage in Java
 
 The recommended method to install **Java** is by using 
 [Oracle](https://www.oracle.com/tr/java/technologies/javase-downloads.html).
+Recommended version is java 11.
 
 Jetbrains IntelliJ IDEA Installation
 [IntelliJ IDEA](https://www.jetbrains.com/idea/download).
-Recommended version is java 11.
+
 
 To be able to run with mvn;
 
