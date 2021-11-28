@@ -1,6 +1,5 @@
 package tests;
 
-import groovy.util.logging.Log;
 import helper.Logger;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
